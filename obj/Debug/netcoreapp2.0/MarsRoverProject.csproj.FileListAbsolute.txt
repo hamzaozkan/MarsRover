@@ -1,0 +1,22 @@
+c:\users\hamza özkan\source\repos\MarsRoverProject\bin\Debug\netcoreapp2.0\MarsRoverProject.deps.json
+c:\users\hamza özkan\source\repos\MarsRoverProject\bin\Debug\netcoreapp2.0\MarsRoverProject.runtimeconfig.json
+c:\users\hamza özkan\source\repos\MarsRoverProject\bin\Debug\netcoreapp2.0\MarsRoverProject.runtimeconfig.dev.json
+c:\users\hamza özkan\source\repos\MarsRoverProject\bin\Debug\netcoreapp2.0\MarsRoverProject.dll
+c:\users\hamza özkan\source\repos\MarsRoverProject\bin\Debug\netcoreapp2.0\MarsRoverProject.pdb
+c:\users\hamza özkan\source\repos\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.csprojResolveAssemblyReference.cache
+c:\users\hamza özkan\source\repos\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.csproj.CoreCompileInputs.cache
+c:\users\hamza özkan\source\repos\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.AssemblyInfoInputs.cache
+c:\users\hamza özkan\source\repos\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.AssemblyInfo.cs
+c:\users\hamza özkan\source\repos\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.dll
+c:\users\hamza özkan\source\repos\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.pdb
+C:\Users\02483429\Downloads\MarsRoverProject\bin\Debug\netcoreapp2.0\MarsRoverProject.deps.json
+C:\Users\02483429\Downloads\MarsRoverProject\bin\Debug\netcoreapp2.0\MarsRoverProject.runtimeconfig.json
+C:\Users\02483429\Downloads\MarsRoverProject\bin\Debug\netcoreapp2.0\MarsRoverProject.runtimeconfig.dev.json
+C:\Users\02483429\Downloads\MarsRoverProject\bin\Debug\netcoreapp2.0\MarsRoverProject.dll
+C:\Users\02483429\Downloads\MarsRoverProject\bin\Debug\netcoreapp2.0\MarsRoverProject.pdb
+C:\Users\02483429\Downloads\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.csprojAssemblyReference.cache
+C:\Users\02483429\Downloads\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.csproj.CoreCompileInputs.cache
+C:\Users\02483429\Downloads\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.AssemblyInfoInputs.cache
+C:\Users\02483429\Downloads\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.AssemblyInfo.cs
+C:\Users\02483429\Downloads\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.dll
+C:\Users\02483429\Downloads\MarsRoverProject\obj\Debug\netcoreapp2.0\MarsRoverProject.pdb
